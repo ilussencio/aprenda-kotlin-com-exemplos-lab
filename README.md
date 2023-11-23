@@ -7,7 +7,11 @@ Desafio de Projeto criado para avaliação do conteúdo técnico explorado no re
 
 ## Solução
 Nessa solução busquei inserir algumas funções na classe de `Formacao` como:
+
  `cargaHorariaTotal()`: Onde vai retornar a carga horária total do curso com base no conteudo educacional inserido
+
  `quantidadeDeInscritos()`: Onde vai retornar o total de inscrições no curso
+
  `toString()`: Sobrescrevi a função toString para listar mais informações sobre a Formação
+ 
  `matricular()` : Nesta função criei um exceção personalizada caso o aluno tente se cadastrar e não esta no mesmo nível da Formação
